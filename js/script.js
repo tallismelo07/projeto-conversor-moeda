@@ -32,3 +32,5 @@ btnInverter.addEventListener('click', () => {
   seletorOrigem.value = seletorDestino.value;
   seletorDestino.value = temp;
 });
+
+console.log("Projeto finalizado");
